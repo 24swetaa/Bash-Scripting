@@ -1,2 +1,0 @@
-ITW1 MID SEM PROJECT
-Bash Scripting
